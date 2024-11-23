@@ -1,0 +1,16 @@
+NPC mają 4 SIZE_UNIT
+		720p=>4*16px=64px      
+		1080=>4*24px=96px
+		1440=>4*32px=128px
+		2160=>4*48px=192px
+
+
+orc x:-2.5 y:-26.55
+
+warrior x:0,27 y:-26.55
+
+
+Krzysztof Banaszyk
+Robert Tondera
+
+
